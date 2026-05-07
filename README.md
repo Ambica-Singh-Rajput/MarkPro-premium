@@ -119,6 +119,9 @@ lib/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## ?? Contributors
+- Thanks to all contributors who help improve MarkPro+!
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -135,3 +138,4 @@ For any inquiries or support, please contact the development team at development
 
 </div>
 #
+
